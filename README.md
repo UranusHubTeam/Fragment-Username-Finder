@@ -16,15 +16,14 @@ The program is equipped with a large dataset of words, collected by our team and
 
 This version offers two modes:
 
-1. **Normal**: Creates normal usernames.
-2. **With Underline**: Creates usernames with an underline.
+1. **Normal**: Generates normal usernames.
+2. **With Underline**: Generates usernames with an underline.
 
 You can select the mode based on your requirements. Additionally, Version 1 includes weekly updates.
 
 #### Screenshots of Version 1:
 
 ![Screenshot 1](https://raw.githubusercontent.com/UranusHubTeam/Fragment-Username-Finder/refs/heads/main/V1.A.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/UranusHubTeam/Fragment-Username-Finder/refs/heads/main/V1.B.jpg)
 
 ---
 
@@ -32,10 +31,10 @@ You can select the mode based on your requirements. Additionally, Version 1 incl
 
 This version comes with more features:
 
-1. **Normal**: Creates normal usernames.
+1. **Normal**: Generates normal usernames.
 2. **Unique**: Generates usernames with unique characteristics.
-3. **With Numbers**: Creates usernames with numbers.
-4. **With Underline**: Creates usernames with an underline.
+3. **With Numbers**: Generates usernames with numbers.
+4. **With Underline**: Generates usernames with an underline.
 5. **Random**: Generates completely random usernames.
 
 Version 2 also features daily updates.
@@ -43,7 +42,6 @@ Version 2 also features daily updates.
 #### Screenshots of Version 2:
 
 ![Screenshot 1](https://raw.githubusercontent.com/UranusHubTeam/Fragment-Username-Finder/refs/heads/main/V2.A.jpg)
-![Screenshot 2](https://raw.githubusercontent.com/UranusHubTeam/Fragment-Username-Finder/refs/heads/main/V2.B.jpg)
 
 ---
 
